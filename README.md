@@ -1,6 +1,10 @@
 # SNAKE DEFENSE
 
-## Running the game
+## Play the game
+
+The game can be played online at https://habibrehman2002.github.io/SnakeDefenseGame/
+
+## Running the game locally
 
 Requires Python with Pygame in the `snakegame` conda environment (user manages env activation):
 
